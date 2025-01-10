@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 46,
+        "description": "Minecraft HD:√\nBy Black_Moss"
+    },
+    "supported_formats": {
+        "min_inclusive": 0,
+        "max_inclusive": 100
+    }
+}
